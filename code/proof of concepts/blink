@@ -1,0 +1,19 @@
+int ledBlink = 8;
+void setup() {
+pinMode(ledBlink, OUTPUT); //maakt uw pin 8 een output
+}
+
+void blink() { //void blink kijkt na of arduino vode kan ontvangen en de klok functie correct werkt
+ for(int i=0; i<2; i++){
+  digitalWrite(ledBlink, HIGH);
+  delay(1000);
+  digitalWrite(ledBlink, LOW);
+  delay(1000);
+ }
+}
+
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+}
