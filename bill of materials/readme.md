@@ -5,7 +5,7 @@
 |----------|----|------------|-----------|---------|------|---------|
 |         1|  motor  |  50:1 Micro metal gearbox   6V  |nieuw        |    5          |  2    |      10   |
 |         2| batterij    |      n18650cl-29 bak a03      |     nieuw      |      8        | 2     |     16    |
-|         3|    batterij opladers |            |           |              |      |         |
+|         3|    batterij opladers |   Oplader voor 18650 Li-Ion Batterij - USB      |       nieuw    |  8            |   1   |      8   |
 |         4|  batterijhouder  |  2x 18650 Batterijhouder met losse draden       | nieuw    |      1,80          |   1   |   1,8      |
 |        5|  H-brug  |  Drv8833 motor aandrijfmodule          |   nieuw        |       0,7       |   2   |  0,7       |
 |        6|  sensor  |   QRE1113         |     nieuw      |     1,6         |   2   |    3,2     |
