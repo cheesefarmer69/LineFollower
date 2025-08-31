@@ -15,5 +15,6 @@
 |         10|   draad |     standaard jumper wires    |      recup     |         0     |   x   |     0    |
 |         11    |  breadbord   |  breadboard mini 8,5cm x 5,5cm         |       nieuw       |  2    |     1    | 2|
 |         12|    |   chassis         | printplaat 12x8 cm          |              |      |         |
-|         13|    |            |           |              |      |         |
-|         14|    |            |           |              |      |         |
+|         13|   M5 bout    |   verhoogd de sensoren van de grond         |   recup       |   0     |  1   |         |
+|         14|  M5 vloetje     |         |      recup     |    0       |   2   |        |
+|         15|  M5 moer     |         |      recup     |    0       |   2   |        |
