@@ -18,3 +18,4 @@
 |         13|   M5 bout    |   verhoogd de sensoren van de grond         |   recup       |   0     |  1   |   0      |
 |         14|  M5 vloetje     |         |      recup     |    0       |   2   |    0    |
 |         15|  M5 moer     |         |      recup     |    0       |   2   |  0      |
+|         16| klein breadboard voedings en gnd strip    |         |      recup     |    0       |   1   |  0      |
